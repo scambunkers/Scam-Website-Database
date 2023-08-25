@@ -1,6 +1,5 @@
 # Title:         fake online shops
 # Description:   Fake online shops, malicious streaming platforms and other fraudulent websites
-# Homepage:      https://github.com/stonecrusher/filterlists-pihole/
 # Last updated:  2023-08-25
 
 1-proof.cyou
